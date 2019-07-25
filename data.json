@@ -1,0 +1,16 @@
+{
+    "data":[
+        {
+            "id":1,
+            "title":"function Person(firstName, lastName){this.firstName = firstName;this.lastName = lastName;}constmember=new Person('Lydia','Hallie')Person.getFullName=function(){return `${this.firstName} ${this.lastName}`;}console.log(member.getFullName())",
+            "choose":"A: TypeError B: SyntaxError C: Lydia Hallie D: undefined undefined",
+            "ans":"A"
+        },
+        {
+            "id":2,
+            "title":"題目2",
+            "choose":"1",
+            "ans":"答案2"
+        }
+    ]
+}
