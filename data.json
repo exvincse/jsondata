@@ -2,15 +2,15 @@
     "data":[
         {
             "id":1,
-            "title":"function Person(firstName, lastName){this.firstName = firstName;this.lastName = lastName;}constmember=new Person('Lydia','Hallie')Person.getFullName=function(){return `${this.firstName} ${this.lastName}`;}console.log(member.getFullName())",
-            "choose":"A: TypeError B: SyntaxError C: Lydia Hallie D: undefined undefined",
-            "ans":"A"
+            "title":"題目1",
+            "img":"https://i.pinimg.com/originals/0e/21/ae/0e21ae4f94f79d45802e99aa6f550696.jpg",
+            "ans":"孫悟空"
         },
         {
             "id":2,
             "title":"題目2",
-            "choose":"1",
-            "ans":"答案2"
+            "img":"",
+            "ans":"題目2"
         }
     ]
 }
