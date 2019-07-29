@@ -51,42 +51,42 @@
         },
         {
             "id":8,
-            "title":"請問以上機體名子?(中文二個字)",
+            "title":"請問以上機體名子?",
             "img":"http://www.syhobby.com/upload/product/source_img/16424_1.jpg",
             "chenckq":["命運鋼彈","薩克","自由鋼彈","古夫"],
             "ans":"薩克"
         },
         {
             "id":9,
-            "title":"請問以上機體名子?(中文二個字)",
+            "title":"請問以上機體名子?",
             "img":"http://www.syhobby.com/upload/product/source_img/18171_2.jpg",
             "chenckq":["命運鋼彈","薩克","自由鋼彈","古夫"],
             "ans":"古夫"
         },
         {
             "id":10,
-            "title":"請問以上機體名子?(中文四個字)",
+            "title":"請問以上機體名子?",
             "img":"https://truth.bahamut.com.tw/s01/201511/10c79a8cd939ede68f2392c992a4e285.JPG",
             "chenckq":["命運鋼彈","薩克","自由鋼彈","古夫"],
             "ans":"自由鋼彈"
         },
         {
             "id":11,
-            "title":"請問以上機體名子?(四個字含數字)",
+            "title":"請問以上機體名子?",
             "img":"https://www.amuzinc.com/Uploads/Temp/Temp/636276918969225509.jpg",
             "chenckq":["00鋼彈","薩克","自由鋼彈","古夫"],
             "ans":"00鋼彈"
         },
         {
             "id":12,
-            "title":"請問以上機體名子?(三個字)",
+            "title":"請問以上機體名子?",
             "img":"http://blog.sina.com.tw/myimages/64/8256/images/20081028211852152.jpg",
             "chenckq":["00鋼彈","薩克","自由鋼彈","智天使"],
             "ans":"智天使"
         },
         {
             "id":13,
-            "title":"請問以上機體名子?(三個字)",
+            "title":"請問以上機體名子?",
             "img":"http://www.syhobby.com/upload/product/source_img/4922_2.jpg",
             "chenckq":["00鋼彈","妖天使","自由鋼彈","智天使"],
             "ans":"妖天使"
